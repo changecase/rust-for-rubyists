@@ -1,0 +1,5 @@
+[package]
+
+name = "Pointers_and_Ownership"
+version = "0.1.0"
+authors = [ "jeff@example.com" ]
